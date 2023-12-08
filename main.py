@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-
 def main():
     from myapp.startup import perform_startup
 
